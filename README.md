@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumarmahto&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumarmahto" /> </p>
 
-- 🌱 I’m currently learning *PYTHON*
+- 🌱 I’m currently learning *Data science*
 
 - 💬 Ask me about *I’m a confident individual*
 
