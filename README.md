@@ -7,6 +7,6 @@
 <h4 align="centre">📌I LOVE<img align="centre" alt="coding"width="80"width="50"src="https://media1.tenor.com/m/kvQkKYGAEnEAAAAd/hot-working.gif"> AND <img align="centre" alt="coding"width="80"width="50"src="https://media1.tenor.com/m/IeDadtoeM1YAAAAC/tom-and-jerry-tom-strong.gif"</h4>
   <br>
   <br>
-<img align="centre" alt="coding"width="800"width="200"src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/under-construction.gif"><img align="right" alt="coding"width="150"width="150"src="https://media1.tenor.com/m/Lf2K9bW9HdUAAAAC/tom-and-jerry-evil.gif">
+<img align="centre" alt="coding"width="800"width="200"src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/under-construction.gif">
   <hr />
 <h4 align="centre"> 👉🏾 I AM CURRENTLY LEARNING DATA SCIENCE <img align="centre" alt="coding"width="150"width="150"src="https://media1.tenor.com/m/iZjvMBPx7_YAAAAC/scientists-science.gif"></h4>
