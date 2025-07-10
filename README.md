@@ -12,4 +12,4 @@
 <h4 align="centre"> 👉🏾 I AM CURRENTLY LEARNING DATA SCIENCE <img align="centre" alt="coding"width="150"width="150"src="https://media1.tenor.com/m/iZjvMBPx7_YAAAAC/scientists-science.gif"></h4>
   <hr/>
 <h4>🧛‍♀️she: you are ';' to my code</h4>
-<h4>🥷🏿he: I code in python 👀</h4>
+<h4>🥷🏿me: I code in python 👀</h4>
